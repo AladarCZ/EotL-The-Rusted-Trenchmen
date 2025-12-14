@@ -1,0 +1,102 @@
+[
+	{
+		ingredientPattern: "GHI,ABA,DED",
+		recipeGroup: 1,
+		ingredients: {
+			"A": { type: "item", code: "game:metalplate-steel", quantity: 2
+			},
+			"B": { type: "item", code: "game:leather-sturdy-plain", quantity: 8
+			},
+			"D": { type: "item", code: "game:metalplate-blackbronze", quantity: 2
+			},
+			"E": { type: "item", code: "game:armor-legs-plate-steel"
+			},
+			"G": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 100
+			},
+			"H": { type: "item", code: "el-trenchmen-schematic", returnedStack: { "type": "item", "code": "el-trenchmen-schematic" }
+			},
+			"I": { type: "item", code: "game:leather-normal-black", quantity: 8
+			}
+		},
+		width: 3,
+		height: 3,
+		name: "greenwich steel plate armet",
+		output: { type: "item", code: "el-trenchmen-legs-steel-black"
+		}
+	},
+	{
+		ingredientPattern: "GHI,ABA,DED",
+		recipeGroup: 1,
+		ingredients: {
+			"A": { type: "item", code: "game:metalplate-iron", quantity: 2
+			},
+			"B": { type: "item", code: "game:leather-normal-plain", quantity: 8
+			},
+			"D": { type: "item", code: "game:metalplate-blackbronze", quantity: 2
+			},
+			"E": { type: "item", code: "game:armor-legs-plate-iron"
+			},
+			"G": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 100
+			},
+			"H": { type: "item", code: "el-trenchmen-schematic", returnedStack: { "type": "item", "code": "el-trenchmen-schematic" }
+			},
+			"I": { type: "item", code: "game:leather-normal-black", quantity: 8
+			}
+		},
+		width: 3,
+		height: 3,
+		name: "greenwich steel plate armet",
+		output: { type: "item", code: "el-trenchmen-legs-iron-black"
+		}
+	},
+	{
+		ingredientPattern: "GHI,ABA,DED",
+		recipeGroup: 1,
+		ingredients: {
+			"A": { type: "item", code: "game:metalplate-steel", quantity: 2
+			},
+			"B": { type: "item", code: "game:leather-sturdy-plain", quantity: 8
+			},
+			"D": { type: "item", code: "game:metalplate-bismuthbronze", quantity: 2
+			},
+			"E": { type: "item", code: "game:armor-legs-plate-steel"
+			},
+			"G": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 100
+			},
+			"H": { type: "item", code: "el-trenchmen-schematic", returnedStack: { "type": "item", "code": "el-trenchmen-schematic" }
+			},
+			"I": { type: "item", code: "game:leather-normal-green", quantity: 8
+			}
+		},
+		width: 3,
+		height: 3,
+		name: "greenwich steel plate armet",
+		output: { type: "item", code: "el-trenchmen-legs-steel-beige"
+		}
+	},
+	{
+		ingredientPattern: "GHI,ABA,DED",
+		recipeGroup: 1,
+		ingredients: {
+			"A": { type: "item", code: "game:metalplate-iron", quantity: 2
+			},
+			"B": { type: "item", code: "game:leather-normal-plain", quantity: 8
+			},
+			"D": { type: "item", code: "game:metalplate-bismuthbronze", quantity: 2
+			},
+			"E": { type: "item", code: "game:armor-legs-plate-iron"
+			},
+			"G": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 100
+			},
+			"H": { type: "item", code: "el-trenchmen-schematic", returnedStack: { "type": "item", "code": "el-trenchmen-schematic" }
+			},
+			"I": { type: "item", code: "game:leather-normal-green", quantity: 8
+			}
+		},
+		width: 3,
+		height: 3,
+		name: "greenwich steel plate armet",
+		output: { type: "item", code: "el-trenchmen-legs-iron-beige"
+		}
+	}
+]

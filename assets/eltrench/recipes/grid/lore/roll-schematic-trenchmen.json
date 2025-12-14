@@ -1,0 +1,28 @@
+[
+	{
+		ingredientPattern: "A",
+		recipeGroup: 1,
+		ingredients: {
+			"A": { type: "item", code: "el-trenchmen-schematic"
+			}
+		},
+		width: 1,
+		height: 1,
+		name: "Roll Scroll",
+		output: { type: "item", code: "el-trenchmen-rolled-schematic"
+		}
+	},
+	{
+		ingredientPattern: "A",
+		recipeGroup: 1,
+		ingredients: {
+			"A": { type: "item", code: "el-trenchmen-rolled-schematic"
+			}
+		},
+		width: 1,
+		height: 1,
+		name: "Roll Scroll",
+		output: { type: "item", code: "el-trenchmen-schematic"
+		}
+	},
+]

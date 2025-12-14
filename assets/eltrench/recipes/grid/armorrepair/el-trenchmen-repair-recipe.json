@@ -1,0 +1,226 @@
+[
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-head-pickelhaube-steel-*",  
+						name: "color", allowedVariants: [
+					"black",
+					"beige"
+				]
+			},
+			"P": { type: "item", code: "game:metalplate-steel"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "head repair",
+		output: { type: "item", code: "el-trenchmen-head-pickelhaube-steel-{color}"
+		}
+	},
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-head-pickelhaube-iron-*",  
+						name: "color", allowedVariants: [
+					"black",
+					"beige"
+				]
+			},
+			"P": { type: "item", code: "game:metalplate-iron"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "head repair",
+		output: { type: "item", code: "el-trenchmen-head-pickelhaube-iron-{color}"
+		}
+	},
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-head-brodie-steel-*",  
+						name: "color", allowedVariants: [
+					"black",
+					"beige"
+				]
+			},
+			"P": { type: "item", code: "game:metalplate-steel"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "head repair",
+		output: { type: "item", code: "el-trenchmen-head-brodie-steel-{color}"
+		}
+	},
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-head-brodie-iron-*",  
+						name: "color", allowedVariants: [
+					"black",
+					"beige"
+				]
+			},
+			"P": { type: "item", code: "game:metalplate-iron"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "head repair",
+		output: { type: "item", code: "el-trenchmen-head-brodie-iron-{color}"
+		}
+	},
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-body-reich-steel-black"
+			},
+			"P": { type: "item", code: "game:metalplate-steel"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "greenwich steel plate body repair",
+		output: { type: "item", code: "el-trenchmen-body-reich-steel-black"
+		}
+	},
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-body-british-steel-beige"
+			},
+			"P": { type: "item", code: "game:metalplate-steel"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "greenwich steel plate body repair",
+		output: { type: "item", code: "el-trenchmen-body-british-steel-beige"
+		}
+	},
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-body-reich-iron-black"
+			},
+			"P": { type: "item", code: "game:metalplate-iron"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "greenwich steel plate body repair",
+		output: { type: "item", code: "el-trenchmen-body-reich-iron-black"
+		}
+	},
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-body-british-iron-beige"
+			},
+			"P": { type: "item", code: "game:metalplate-iron"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "greenwich steel plate body repair",
+		output: { type: "item", code: "el-trenchmen-body-british-iron-beige"
+		}
+	},
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-legs-steel-*",  
+						name: "color", allowedVariants: [
+					"black",
+					"beige"
+				]
+			},
+			"P": { type: "item", code: "game:metalplate-steel"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "greenwich steel plate legs repair",
+		output: { type: "item", code: "el-trenchmen-legs-steel-{color}"
+		}
+	},
+	{
+		ingredientPattern: "BL,P_",
+		recipeGroup: 2,
+		ingredients: {
+			"B": { type: "item", code: "el-trenchmen-legs-iron-*",  
+						name: "color", allowedVariants: [
+					"black",
+					"beige"
+				]
+			},
+			"P": { type: "item", code: "game:metalplate-iron"
+			},
+			"L": { type: "item", code: "game:leather-normal-plain"
+			}
+		},
+		width: 2,
+		height: 2,
+		shapeless: true,
+		copyAttributesFrom: 'B',
+		averageDurability: false,
+		name: "greenwich iron plate legs repair",
+		output: { type: "item", code: "el-trenchmen-legs-iron-{color}"
+		}
+	}
+]
